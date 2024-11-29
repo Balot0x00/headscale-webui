@@ -1,3 +1,22 @@
+Fork from: https://github.com/iFargle/headscale-webui
+
+<p style="color: yellow;">
+<br>!!!!!!!!!!!!!!!!!!WARRNING!!!!!!!!!!!!!!!!!!
+<br>1. 本项目仅适用于headscale023版本, 对023部分变更的API接口进行适配修改, 其中OIDC相关功能未修改;
+<br>2. 项目中包含Dcokerfile文件, 但属于原项目的分支, 本项目不适用此项目, 若有余力, 请自行构建镜像进行验证;
+<br>3. 本项目不接受代码任何形式的贡献, 如有需求请移步至原项目;
+<br>!!!!!!!!!!!!!!!!!!WARRNING!!!!!!!!!!!!!!!!!!
+</p>
+
+<p style="color: yellow;">
+<br>!!!!!!!!!!!!!!!!!!WARRNING!!!!!!!!!!!!!!!!!!
+<br>1. This project only applies to the headscale023 version, the 023 part of the changes in the API interface to adapt to the modification, which OIDC-related functions have not been modified.;
+<br>2. the project contains Dcokerfile file, but belongs to the original project branch, this project does not apply to this file, if you have the spare capacity, please build your own image for verification;
+<br>3. this warehouse does not accept any form of contribution to the code, if you need to move to the original project;
+<br>4. The Eng ver Readme translated by Deepl;
+<br>!!!!!!!!!!!!!!!!!!WARRNING!!!!!!!!!!!!!!!!!!
+</p>
+
 <p align="center">
   <a href="https://github.com/juanfont/headscale">
     <img src="static/img/headscale3-dots.png" width="250">
